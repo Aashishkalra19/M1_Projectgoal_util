@@ -1,5 +1,5 @@
 # Description
-# Introduction
+## Introduction
 * The **PhoneBook Manager** is a C project which has features like Add, Search, Delete, update contacts in a file for future use. It can store details such as First name, last name, phone number & E-mail as provided by the user.  
 
 # High Level Requirements
