@@ -3,17 +3,17 @@
 * The **PhoneBook Manager** is a C project which has features like Add, Search, Delete, update contacts in a file for future use. It can store details such as First name, last name, phone number & E-mail as provided by the user.  
 
 ## High Level Requirements
-- Must perform operations such as:
-- i. Additon of a contact
-- ii. Deletion of a contact
-- iii. Update a contact
-- iv. SEarch for a contact
+* Must perform operations such as:
+    -  Additon of a contact
+    -  Deletion of a contact
+    -  Update a contact
+    -  SEarch for a contact
 
 ## Low Level Requirements
 * Low level requirements must have
-- Save a new contact
-- Search contact wrt first name, last name, phone number, email id
-- Display appropriate message if contact not found
+    - Save a new contact
+    - Search contact wrt first name, last name, phone number, email id
+    - Display appropriate message if contact not found
  
 
 ## SWOT
@@ -53,7 +53,4 @@
 
 ### How
 - Developed using C Language.
-=======
-Who
-- 
->>>>>>> 5ba2e5cdaa04b46742554cc2a802dd6e96abb317
+
