@@ -23,7 +23,7 @@
 - Easy to understand application and use
 - Easy method to search for a contact having particular information
 
-### Weakness 
+ Weakness 
 - No backup of contacts
 - Privacy concerns
 
@@ -38,6 +38,7 @@
 
 ## 4W's & 1H
 
+<<<<<<< HEAD
 ### Who
 - A user who wants to store information digitally.
 
@@ -52,3 +53,7 @@
 
 ### How
 - Developed using C Language.
+=======
+Who
+- 
+>>>>>>> 5ba2e5cdaa04b46742554cc2a802dd6e96abb317
