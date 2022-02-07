@@ -23,7 +23,7 @@
 - Easy to understand application and use
 - Easy method to search for a contact having particular information
 
- Weakness 
+ ### Weakness 
 - No backup of contacts
 - Privacy concerns
 
