@@ -16,9 +16,9 @@
 - Display appropriate message if contact not found
  
 
-# SWOT
+## SWOT
 
-* Strengths
+### Strengths
 - Easily upgradeable by adding additional information 
 - Easy to understand application and use
 - Easy method to search for a contact having particular information
